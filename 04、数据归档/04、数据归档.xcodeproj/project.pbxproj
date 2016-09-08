@@ -109,14 +109,14 @@
 			children = (
 				337692E71D75A89E00965372 /* AppDelegate.h */,
 				337692E81D75A89E00965372 /* AppDelegate.m */,
+				337692F31D75A89E00965372 /* ViewController.h */,
+				337692F41D75A89E00965372 /* ViewController.m */,
+				337692F11D75A89E00965372 /* User.h */,
+				337692F21D75A89E00965372 /* User.m */,
 				337692E91D75A89E00965372 /* Assets.xcassets */,
 				337692EA1D75A89E00965372 /* Base.lproj */,
 				337692EF1D75A89E00965372 /* Info.plist */,
 				337692F01D75A89E00965372 /* main.m */,
-				337692F11D75A89E00965372 /* User.h */,
-				337692F21D75A89E00965372 /* User.m */,
-				337692F31D75A89E00965372 /* ViewController.h */,
-				337692F41D75A89E00965372 /* ViewController.m */,
 				337692B41D75A86B00965372 /* Supporting Files */,
 			);
 			path = "04、数据归档";
